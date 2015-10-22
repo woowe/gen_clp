@@ -1,0 +1,9 @@
+[package]
+name = "clp_gen"
+version = "0.1.0"
+authors = ["woowe"]
+
+[dependencies]
+html5ever = "0.2.6"
+clap = "*"
+regex = "*"
